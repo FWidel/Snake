@@ -1,0 +1,15 @@
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\App.g.cs
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\MainWindow.baml
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Oneeyed\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb

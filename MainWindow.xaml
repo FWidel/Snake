@@ -1,0 +1,27 @@
+﻿<Window x:Class="Projekt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt"
+        mc:Ignorable="d"
+        Title="Snake"
+		Height="350"
+		Width="525"
+		KeyDown="Window_KeyDown"
+		Background="Transparent">
+
+	<StackPanel Width="400" Height="200" Name="MainStack"  Background="AliceBlue"  >
+		<Canvas Name="mainCanvas"  Grid.ColumnSpan="3" Margin="0,0,0,0.4" >
+			<Ellipse Name="Food"  Visibility="Hidden" Fill="Red" Stroke="Green" Width="10" Height="10"></Ellipse>
+		</Canvas>
+		<Label x:Name="Score2"  Visibility="Visible" Foreground="White"  Content="Score:" Margin="10,-23,320,3.4" Height="Auto"/>
+		<Label x:Name="Score"  Visibility="Visible" Foreground="White" Content="0" Margin="44,-29,0,0" Height="Auto"/>
+		<Button x:Name="start_Button"  Background="Snow" Width="180" Height="30" Click="BT_startGry_Click" Content="New Game"  Margin="110,0,110,2.4"/>
+		<Button x:Name="higscore_Button" Background="Snow"   Width="180" Height="30" Click="BT_startGry_Click" Content="High Scores" Margin="110,0,110,0.4"/>
+		<Label x:Name="LabelTime" Visibility="Visible" Foreground="White"   Content="Time:" Margin="94, -160,0,0" Height="24"/>
+		<Label x:Name="Time" Visibility="Visible"   Foreground="White"  Content="0" Margin="124, -160,0,0" Height="24"/>
+
+	</StackPanel>
+
+</Window>
