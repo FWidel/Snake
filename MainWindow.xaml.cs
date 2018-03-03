@@ -136,7 +136,7 @@ namespace Projekt
             m_nStart = Environment.TickCount;
             oTimer = new Timer();
             oTimer.Elapsed += new ElapsedEventHandler(OnTimeEvent);
-            oTimer.Interval = 600;
+            oTimer.Interval = 300;
             oTimer.Enabled = true;
         }
 
